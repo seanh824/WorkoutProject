@@ -1,10 +1,10 @@
 # Apple Watch Workout Dashboard
 ## Introduction
-Welcome to my Apple Watch Workout Dashboard project! In today's increasingly health-conscious world, wearable technology like the Apple Watch has become ubiquitous, providing us with a wealth of data about our daily activities, particularly our workouts. As an aspiring data analyst, I embarked on this project to leverage the data collected from my own Apple Watch workouts and demonstrate my skills in data visualization and analysis.
+Welcome to my Apple Watch Workout Dashboard project! In today's increasingly health-conscious world, wearable technology like the Apple Watch has become ubiquitous, providing us with a wealth of data about our daily activities, particularly our workouts. As an aspiring data analyst, I embarked on this project to leverage the data collected from my own Apple Watch workouts and demonstrate my data visualization and analysis skills.
 
 The primary goal of this project is to create a comprehensive set of dashboards that not only showcase the metrics related to my workout routines but also provide valuable insights into my exercise habits over the years. By aggregating and analyzing data from my workouts spanning from 2021 to 2024, I aim to present a compelling narrative about my fitness journey and the correlations between various factors such as workout duration, time of workout, and external conditions like temperature.
 
-Through this project, I not only showcase my technical proficiency in data manipulation and visualization but also highlight my ability to derive meaningful insights from complex datasets. Whether you're an employer seeking a candidate with a strong analytical mindset or a fellow data enthusiast interested in exploring the intricacies of fitness data, I invite you to delve into my Apple Watch Workout Dashboard project and discover the stories hidden within the numbers.
+Through this project, I showcase my technical proficiency in data manipulation and visualization and highlight my ability to derive meaningful insights from complex datasets. Whether you're an employer seeking a candidate with a strong analytical mindset or a fellow data enthusiast interested in exploring the intricacies of fitness data, I invite you to delve into my Apple Watch Workout Dashboard project and discover the stories hidden within the numbers.
 
 ## Research and Data Collection
 Text goes here.
@@ -45,7 +45,4 @@ Text goes here.
 
 
 ## Conclusion
-Text goes here.
-
-## References
 Text goes here.
