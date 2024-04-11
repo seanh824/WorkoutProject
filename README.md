@@ -12,25 +12,13 @@ Text goes here.
 ## Dashboard 1
 <img width="2240" alt="DB1" src="https://github.com/seanh824/WorkoutProject/assets/140123586/5b9e24db-4fe7-4e5d-906c-a5d78940d818">
 
-### Total Workouts
-Text goes here.
-
-### Total Hours
-Text goes here.
-
-### Total Active Calories
-Text goes here.
-
-### Average Workout Length
-Text goes here.
-
 ### Histogram of Workout Duration
 Text goes here.
 
 ### Workout Frequency by Day of the Week
 Text goes here.
 
-### Line Graph of Temperature vs Workout Duration
+### Line Graph of Temperature vs. Workout Duration
 Text goes here.
 
 ### Workout Frequency by Hour of the Day
